@@ -1,0 +1,20 @@
+[
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-11-17 03:37",
+    "LastAccessed": "2025-11-17 07:58",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"AGRDSL\",\"AGRPET\",\"AOTH-PET\",\"COMDSL\",\"COMPET\",\"INDDSL\",\"INDPET\",\"MAX-DSL-SHR_WOOD-PH-STM_HW-\",\"MAX-DSL-SHR_WOOD-PH-STM_HW_\",\"OTH-DSL\",\"OTH-PET\",\"RESDSL\",\"RESPET\",\"TRADSL\",\"TRAPET\",\"TRAJET\",\"JET\"]}",
+    "Name": "petrol and diesel",
+    "UserName": "akanu"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-11-17 03:37",
+    "LastAccessed": "2025-11-17 03:37",
+    "Filter": "{\"process\":[\"IMPDEMZ\",\"IMPDUCZ\",\"IMPMATZ\",\"IMPNRGZ\"],\"attribute\":[\"VAR_FOut\"]}",
+    "Name": "__Check dummy imports",
+    "UserName": "akanu"
+  }
+]
